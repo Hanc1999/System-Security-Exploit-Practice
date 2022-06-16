@@ -1,0 +1,4 @@
+{ global:
+sudoers_policy;
+sudoers_io;
+local: *; };
